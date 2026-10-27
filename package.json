@@ -9,6 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.118.0",
+    "date-fns-tz": "^3.2.0",
+    "googleapis": "^188.0.0",
     "next": "16.4.3",
     "react": "19.3.0",
     "react-dom": "19.3.0"
